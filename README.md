@@ -1,18 +1,9 @@
-## Getting Started
+PROJECT UML CLASS IPHONE
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+UML is a standard language for developing the structure of software projects. It can be used to visualize, specify, build and document artifacts that make use of complex software systems. The objective of this project is to structure some iPhone features for practice and studies of the UML concept.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+![uml](https://github.com/eziocdl/DiagramaIphone/assets/25807617/f070cd55-026c-44e0-98a7-ebeeaf22f3fc)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
